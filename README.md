@@ -187,7 +187,8 @@ make ci
 
 ---
 
-##**Project Structure**
+
+## Project Structure
 
 engine.c
 monitor.c
